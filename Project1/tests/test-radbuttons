@@ -1,0 +1,9 @@
+Window "Test 2 - Radio Buttons" (300, 200) Layout Grid (5, 1):
+  Group
+    Radio "Button 1";
+    Radio "Button 2";
+    Radio "Button 3";
+    Radio "Button 4";
+    Radio "Button 5";
+  End;
+End.
